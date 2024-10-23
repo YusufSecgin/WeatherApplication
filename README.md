@@ -44,3 +44,6 @@ To run this application, you need to have Python installed along with the requir
 
 ![Screenshot](https://github.com/YusufSecgin/WeatherApplication/blob/main/MainInterface.png)
 
+![Screenshot](https://github.com/YusufSecgin/WeatherApplication/blob/main/result.png)
+
+
