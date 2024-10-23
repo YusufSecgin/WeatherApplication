@@ -42,5 +42,5 @@ To run this application, you need to have Python installed along with the requir
 
 ## Screenshots
 
-![App Screenshot]()
+![Screenshot]()
 
